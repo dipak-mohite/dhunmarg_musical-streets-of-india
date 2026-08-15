@@ -1,0 +1,6 @@
+{
+  "name": "DhunMarg: Musical Streets of India",
+  "description": "An interactive 3D first-person walkable Indian city where every authentic location, vehicle, tapri, salon, and mahfil has its own music playlist and atmospheric world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
